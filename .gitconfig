@@ -1,0 +1,3 @@
+[diff "excel"]
+	binary = true
+	textconv = cscript.exe xls2txt.vbs
